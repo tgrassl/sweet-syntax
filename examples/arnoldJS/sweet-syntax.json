@@ -1,0 +1,58 @@
+{
+    "keywords": {
+        "YOU SET US UP": "let",
+        "CHILL OUT": "const",
+        "NOT TO BE": "null",
+        "YOUR CLOTHES GIVE THEM TO ME": "new",
+        "I'M HERE": "this",
+        "LISTEN TO ME VERY CAREFULLY": "function",
+        "I'LL BE BACK": "return",
+        "BECAUSE I'M GOING TO SAY PLEASE": "if",
+        "YOU HAVE NO RESPECT FOR LOGIC": "else",
+        "LET'S KICK SOME ICE": "for",
+        "COOL PARTY": "while",
+        "THE ICEMAN COMETH": "do",
+        "GET OUT": "continue",  
+        "WHAT THE HELL ARE YOU": "switch",
+        "KNOCK KNOCK": "case",
+        "GET TO THE CHOPPER": "break",
+        "I'LL KILL YOU NEXT TIME": "default",  
+        "TRUST ME": "try",
+        "IT'S NOT A TUMOR": "catch",
+        "PUT THE COOKIE DOWN": "finally",
+        "TO HELL WITH YOU": "delete",
+        "BULLSHIT": "false",
+        "HE'LL LIVE": "true"
+    },
+    "objects": {
+        "TALK TO THE HAND": "console.log",
+        "YOU ARE TERMINATED": "process.exit",   
+        "FOLLOW THE NUMBERS": ".length",    
+        "GET YOUR ASS TO MARS": ".pop",
+        "HERE IS MY INVITATION": ".push",      
+        "THE SUBJECT BEING COPIED": ".bind",
+        "LET ME TRY MINE": ".call",
+        "HERE'S A COUPLE OF ACRES": ".apply"
+    },
+    "operators": {
+        "YOU ARE NOT YOU YOU ARE ME": "===",
+        "STICK AROUND": "=",
+        "I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE": ".",
+        "GET UP": "+",
+        "GET DOWN": "-",
+        "YOU'RE FIRED": "*",
+        "HE HAD TO SPLIT": "/",
+        "I LET HIM GO": "%",
+        "I LIED": "!",
+        "WHAT'S WRONG WITH YOUR EYES": "?",
+        "I NOW KNOW WHY YOU CRY": ":"
+    },
+    "characters": {
+        "DO IT NOW": "()",
+        "IT'S SHOWTIME": "{",
+        "HASTA LA VISTA BABY": "}",
+        "GIVE THESE PEOPLE AIR": "(",
+        "ENOUGH TALK": ")",
+        "TERMINATED": ";"
+    }
+}

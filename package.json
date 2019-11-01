@@ -1,0 +1,56 @@
+{
+  "name": "sweet-syntax",
+  "version": "1.0.0",
+  "description": "Add syntactic sugar to any language!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgrassl/sweet-syntax.git"
+  },
+  "keywords": [
+    "syntax",
+    "syntax sugar",
+    "sugar",
+    "custom syntax",
+    "sweet-syntax",
+    "sweet syntax",
+    "syntactic sugar",
+    "script",
+    "language"
+  ],
+  "author": "Timon Grassl <grassl.timon@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tgrassl/sweet-syntax/issues"
+  },
+  "homepage": "https://github.com/tgrassl/sweet-syntax#readme",
+  "scripts": {
+    "format": "prettier --write */sweet-syntax*.js",
+    "lint": "./node_modules/.bin/eslint */sweet-syntax*.js",
+    "prepublishOnly": "npm run lint",
+    "preversion": "npm run lint",
+    "version": "npm run format && git add -A",
+    "postversion": "git push && git push --tags"
+  },
+  "main": "./lib/sweet-syntax.js",
+  "preferGlobal": true,
+  "bin": {
+    "sweet-syntax": "./bin/sweet-syntax-cli.js"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "dependencies": {
+    "arg": "^4.1.1",
+    "chalk": "^2.4.2",
+    "log-symbols": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.4",
+    "eslint": "^6.6.0",
+    "prettier": "1.18.2"
+  }
+}
