@@ -1,4 +1,4 @@
-![]()
+![](https://i.imgsafe.org/c8/c860d35612.png)
 
 [![npm](https://flat.badgen.net/npm/v/sweet-syntax)](https://www.npmjs.com/package/sweet-syntax)
 [![install size](https://flat.badgen.net/packagephobia/install/sweet-syntax)](https://packagephobia.now.sh/result?p=sweet-syntax)
@@ -66,7 +66,7 @@ console.log(output);
 ## Config
 The config file should be named `sweet-syntax.json` and adopt the following structure:
 
-```json
+```
 {
     "keywords": {
         "LOOP": "for",
@@ -94,9 +94,9 @@ At least one object e.g. keywords must be provided by the config.
 
 
 ## Examples
-You can see examples of custom syntactic sugar under the example folder:
-* [Emoji Markdown]()
-* [ArnoldJS]()
+You can see examples of custom syntactic sugar under the examples folder:
+* [Emoji Markdown](https://github.com/tgrassl/sweet-syntax/tree/master/examples/emojiMarkdown)
+* [ArnoldJS](https://github.com/tgrassl/sweet-syntax/tree/master/examples/arnoldJS)
 
 ## License
 Code released under the [MIT License](https://github.com/tgrassl/sweet-syntax/blob/master/LICENSE).
