@@ -1,4 +1,4 @@
-![](https://i.imgsafe.org/c8/c860d35612.png)
+![](https://i.ibb.co/K07Fh6c/sweet-syntax-banner.png)
 
 [![npm](https://flat.badgen.net/npm/v/sweet-syntax)](https://www.npmjs.com/package/sweet-syntax)
 [![install size](https://flat.badgen.net/packagephobia/install/sweet-syntax)](https://packagephobia.now.sh/result?p=sweet-syntax)
